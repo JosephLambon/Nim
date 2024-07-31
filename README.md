@@ -32,3 +32,4 @@ You will then be prompted to input the pile number you would like to take from (
 ## <a id='demo'> Demo </a>
 
 A successul run of this python script should see command line output as such:
+![Nim](https://github.com/user-attachments/assets/0aad413a-1ed9-40d5-8531-cf3e813b2652)
